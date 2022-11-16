@@ -129,7 +129,8 @@ public class MoreAboutMatch extends AppCompatActivity {
             public Map<String, String> getHeaders() throws AuthFailureError {
                 HashMap<String, String> headers = new HashMap<String, String>();
                 headers.put("Content-Type", "application/json");
-                headers.put("x-rapidapi-key", "6ed701d63bmsh4ae9f612c1a04c7p1e3a9bjsn56bfe813e002");
+                //add your api key here
+                headers.put("x-rapidapi-key", "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");
                 headers.put("x-rapidapi-host", "free-football-soccer-videos.p.rapidapi.com");
                 return headers;
             }
