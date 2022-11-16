@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Streamlivetv soccerhd</string>
+
+    <string name="appid">ca-app-pub-5234414677772411~6581257278</string>
+    <string name="banner_adm">ca-app-pub-5234414677772411/4379487960</string>
+    <string name="interstitial">ca-app-pub-5234414677772411/5019929448</string>
+    <string name="native_Ad">ca-app-pub-5234414677772411/9259429494</string>
+    <string name="nodatc">We are process of adding livescore, keep updating this app to get amazing services, we are currently offering live streaming as well as highlights for recent football matches, check the link below</string>
+    <string name="informat">Welcome to SoccerLive Streams. We are committed to providing the current live of a number of matches daily. Furthermore, all the latest highlights of recent matches are also provided. We encourage our users to watch live in portrait layout if you want to get the best experiences as we have shown in our screenshots. We are also coming up with livescore for all current and latest games. Currently we only provide you with Livestream as well as highlights. LiveTv is a feature we are yet to implement. Make sure you kept updating your app every now then. Please do not hesitate to reach us in rating. Please comment we will be able to reach you back as soon.</string>
+</resources>
